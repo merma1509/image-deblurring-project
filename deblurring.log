@@ -1,0 +1,556 @@
+2025-11-24 15:33:32,390 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:33:32,390 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:32,391 - __main__ - INFO - File exists: True
+2025-11-24 15:33:32,395 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:33:32,419 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:33:32,420 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:32,420 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:32,442 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:33:32,442 - __main__ - INFO - 
+
+
+2025-11-24 15:33:32,443 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:33:32,443 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:33:32,443 - __main__ - INFO -   x_true available: True
+2025-11-24 15:33:32,444 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:33:32,444 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:33:32,444 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:33:32,444 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:33:32,445 - __main__ - INFO - Data loaded in 0.06 seconds
+2025-11-24 15:33:32,608 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:33:32,609 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:32,610 - __main__ - INFO - File exists: True
+2025-11-24 15:33:32,612 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:33:32,632 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:33:32,633 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:32,633 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:32,653 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:33:32,654 - __main__ - INFO - 
+
+
+2025-11-24 15:33:32,654 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:33:32,654 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:33:32,654 - __main__ - INFO -   x_true available: True
+2025-11-24 15:33:32,655 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:33:32,655 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:33:32,657 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:33:32,658 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:33:32,658 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:33:32,688 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:33:32,688 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:32,689 - __main__ - INFO - File exists: True
+2025-11-24 15:33:32,691 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:33:32,712 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:33:32,713 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:32,713 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:32,735 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:33:32,736 - __main__ - INFO - 
+
+
+2025-11-24 15:33:32,737 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:33:32,737 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:33:32,737 - __main__ - INFO -   x_true available: True
+2025-11-24 15:33:32,739 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:33:32,739 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:33:32,739 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:33:32,740 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:33:32,740 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:33:32,835 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:33:32,835 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:32,835 - __main__ - INFO - File exists: True
+2025-11-24 15:33:32,836 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:33:32,856 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:33:32,856 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:32,856 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:32,877 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:33:32,878 - __main__ - INFO - 
+
+
+2025-11-24 15:33:32,878 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:33:32,878 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:33:32,879 - __main__ - INFO -   x_true available: True
+2025-11-24 15:33:32,879 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:33:32,880 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:33:32,880 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:33:32,880 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:33:32,880 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:33:32,971 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:33:32,972 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:32,972 - __main__ - INFO - File exists: True
+2025-11-24 15:33:32,974 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:33:32,994 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:33:32,995 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:32,995 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:33,015 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:33:33,016 - __main__ - INFO - 
+
+
+2025-11-24 15:33:33,016 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:33:33,016 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:33:33,017 - __main__ - INFO -   x_true available: True
+2025-11-24 15:33:33,017 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:33:33,017 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:33:33,018 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:33:33,018 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:33:33,018 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:33:33,108 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:33:33,109 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:33,110 - __main__ - INFO - File exists: True
+2025-11-24 15:33:33,130 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:33:34,197 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:33:34,198 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:34,198 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:35,234 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:33:35,235 - __main__ - INFO - 
+
+
+2025-11-24 15:33:35,235 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:33:35,235 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:33:35,236 - __main__ - INFO -   x_true available: False
+2025-11-24 15:33:35,236 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:33:35,237 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:33:35,237 - __main__ - INFO - Data loaded in 2.13 seconds
+2025-11-24 15:33:35,241 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:33:35,242 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:35,242 - __main__ - INFO - File exists: True
+2025-11-24 15:33:35,259 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:33:36,317 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:33:36,318 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:36,319 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:37,773 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:33:37,773 - __main__ - INFO - 
+
+
+2025-11-24 15:33:37,774 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:33:37,775 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:33:37,775 - __main__ - INFO -   x_true available: False
+2025-11-24 15:33:37,775 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:33:37,776 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:33:37,777 - __main__ - INFO - Data loaded in 2.54 seconds
+2025-11-24 15:33:39,824 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:33:39,825 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:39,825 - __main__ - INFO - File exists: True
+2025-11-24 15:33:39,844 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:33:41,091 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:33:41,092 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:41,093 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:42,385 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:33:42,385 - __main__ - INFO - 
+
+
+2025-11-24 15:33:42,386 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:33:42,386 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:33:42,386 - __main__ - INFO -   x_true available: False
+2025-11-24 15:33:42,387 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:33:42,387 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:33:42,388 - __main__ - INFO - Data loaded in 2.56 seconds
+2025-11-24 15:33:44,624 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:33:44,627 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:44,628 - __main__ - INFO - File exists: True
+2025-11-24 15:33:44,656 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:33:45,960 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:33:45,960 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:33:45,960 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:33:47,453 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:33:47,453 - __main__ - INFO - 
+
+
+2025-11-24 15:33:47,453 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:33:47,454 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:33:47,454 - __main__ - INFO -   x_true available: False
+2025-11-24 15:33:47,454 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:33:47,455 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:33:47,455 - __main__ - INFO - Data loaded in 2.83 seconds
+2025-11-24 15:33:49,501 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:33:49,502 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:33:49,503 - __main__ - INFO - File exists: True
+2025-11-24 15:33:49,583 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:34:00,432 - __main__ - INFO - 
+
+
+2025-11-24 15:34:00,433 - __main__ - INFO -   x_tilde shape: (4321,)
+2025-11-24 15:34:00,434 - __main__ - INFO -   A shape: (4321, 4321)
+2025-11-24 15:34:00,434 - __main__ - INFO -   x_true available: False
+2025-11-24 15:34:00,435 - __main__ - INFO -   Condition number: 1.65e+05
+2025-11-24 15:34:00,436 - __main__ - INFO -   Data range - x_tilde: [0.2590, 1.0000]
+2025-11-24 15:34:00,436 - __main__ - INFO - Data loaded in 10.93 seconds
+2025-11-24 15:34:00,444 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:34:00,444 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:34:00,445 - __main__ - INFO - File exists: True
+2025-11-24 15:34:00,530 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:34:13,048 - __main__ - INFO - 
+
+
+2025-11-24 15:34:13,049 - __main__ - INFO -   x_tilde shape: (4321,)
+2025-11-24 15:34:13,049 - __main__ - INFO -   A shape: (4321, 4321)
+2025-11-24 15:34:13,050 - __main__ - INFO -   x_true available: False
+2025-11-24 15:34:13,050 - __main__ - INFO -   Condition number: 1.65e+05
+2025-11-24 15:34:13,051 - __main__ - INFO -   Data range - x_tilde: [0.2590, 1.0000]
+2025-11-24 15:34:13,051 - __main__ - INFO - Data loaded in 12.61 seconds
+2025-11-24 15:34:26,548 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:34:26,549 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:34:26,550 - __main__ - INFO - File exists: True
+2025-11-24 15:34:26,618 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:34:36,621 - __main__ - INFO - 
+
+
+2025-11-24 15:34:36,621 - __main__ - INFO -   x_tilde shape: (4321,)
+2025-11-24 15:34:36,622 - __main__ - INFO -   A shape: (4321, 4321)
+2025-11-24 15:34:36,622 - __main__ - INFO -   x_true available: False
+2025-11-24 15:34:36,622 - __main__ - INFO -   Condition number: 1.65e+05
+2025-11-24 15:34:36,623 - __main__ - INFO -   Data range - x_tilde: [0.2590, 1.0000]
+2025-11-24 15:34:36,623 - __main__ - INFO - Data loaded in 10.07 seconds
+2025-11-24 15:34:52,853 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:34:52,854 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:34:52,854 - __main__ - INFO - File exists: True
+2025-11-24 15:34:52,933 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:35:03,366 - __main__ - INFO - 
+
+
+2025-11-24 15:35:03,366 - __main__ - INFO -   x_tilde shape: (4321,)
+2025-11-24 15:35:03,366 - __main__ - INFO -   A shape: (4321, 4321)
+2025-11-24 15:35:03,367 - __main__ - INFO -   x_true available: False
+2025-11-24 15:35:03,367 - __main__ - INFO -   Condition number: 1.65e+05
+2025-11-24 15:35:03,368 - __main__ - INFO -   Data range - x_tilde: [0.2590, 1.0000]
+2025-11-24 15:35:03,368 - __main__ - INFO - Data loaded in 10.52 seconds
+2025-11-24 15:38:47,057 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:38:47,059 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:47,059 - __main__ - INFO - File exists: True
+2025-11-24 15:38:47,063 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:38:47,088 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:38:47,089 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:47,089 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:47,111 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:38:47,111 - __main__ - INFO - 
+
+
+2025-11-24 15:38:47,112 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:38:47,112 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:38:47,112 - __main__ - INFO -   x_true available: True
+2025-11-24 15:38:47,112 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:38:47,113 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:38:47,113 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:38:47,114 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:38:47,114 - __main__ - INFO - Data loaded in 0.06 seconds
+2025-11-24 15:38:47,119 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:38:47,119 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:47,120 - __main__ - INFO - File exists: True
+2025-11-24 15:38:47,124 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:38:47,147 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:38:47,147 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:47,147 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:47,171 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:38:47,171 - __main__ - INFO - 
+
+
+2025-11-24 15:38:47,171 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:38:47,172 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:38:47,172 - __main__ - INFO -   x_true available: True
+2025-11-24 15:38:47,173 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:38:47,173 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:38:47,173 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:38:47,174 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:38:47,174 - __main__ - INFO - Data loaded in 0.06 seconds
+2025-11-24 15:38:47,273 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:38:47,274 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:47,274 - __main__ - INFO - File exists: True
+2025-11-24 15:38:47,277 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:38:47,298 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:38:47,298 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:47,299 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:47,321 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:38:47,321 - __main__ - INFO - 
+
+
+2025-11-24 15:38:47,322 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:38:47,322 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:38:47,322 - __main__ - INFO -   x_true available: True
+2025-11-24 15:38:47,323 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:38:47,323 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:38:47,324 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:38:47,324 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:38:47,324 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:38:47,459 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:38:47,460 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:47,461 - __main__ - INFO - File exists: True
+2025-11-24 15:38:47,462 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:38:47,482 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:38:47,483 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:47,484 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:47,504 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:38:47,504 - __main__ - INFO - 
+
+
+2025-11-24 15:38:47,505 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:38:47,505 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:38:47,505 - __main__ - INFO -   x_true available: True
+2025-11-24 15:38:47,506 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:38:47,506 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:38:47,506 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:38:47,507 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:38:47,507 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:38:47,600 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:38:47,601 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:47,602 - __main__ - INFO - File exists: True
+2025-11-24 15:38:47,624 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:38:48,627 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:38:48,628 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:48,628 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:49,646 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:38:49,646 - __main__ - INFO - 
+
+
+2025-11-24 15:38:49,647 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:38:49,647 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:38:49,647 - __main__ - INFO -   x_true available: False
+2025-11-24 15:38:49,647 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:38:49,648 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:38:49,648 - __main__ - INFO - Data loaded in 2.05 seconds
+2025-11-24 15:38:49,653 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:38:49,653 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:49,654 - __main__ - INFO - File exists: True
+2025-11-24 15:38:49,672 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:38:50,863 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:38:50,863 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:50,863 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:51,896 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:38:51,897 - __main__ - INFO - 
+
+
+2025-11-24 15:38:51,897 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:38:51,897 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:38:51,898 - __main__ - INFO -   x_true available: False
+2025-11-24 15:38:51,898 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:38:51,898 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:38:51,899 - __main__ - INFO - Data loaded in 2.25 seconds
+2025-11-24 15:38:53,623 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:38:53,624 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:53,624 - __main__ - INFO - File exists: True
+2025-11-24 15:38:53,644 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:38:54,687 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:38:54,688 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:54,690 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:55,810 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:38:55,810 - __main__ - INFO - 
+
+
+2025-11-24 15:38:55,810 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:38:55,811 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:38:55,811 - __main__ - INFO -   x_true available: False
+2025-11-24 15:38:55,811 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:38:55,812 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:38:55,812 - __main__ - INFO - Data loaded in 2.19 seconds
+2025-11-24 15:38:57,628 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:38:57,629 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:38:57,629 - __main__ - INFO - File exists: True
+2025-11-24 15:38:57,647 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:38:58,739 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:38:58,740 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:38:58,740 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:38:59,886 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:38:59,886 - __main__ - INFO - 
+
+
+2025-11-24 15:38:59,886 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:38:59,887 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:38:59,887 - __main__ - INFO -   x_true available: False
+2025-11-24 15:38:59,888 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:38:59,888 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:38:59,888 - __main__ - INFO - Data loaded in 2.26 seconds
+2025-11-24 15:39:01,690 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:39:01,691 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:01,691 - __main__ - INFO - File exists: True
+2025-11-24 15:39:01,761 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:11,061 - __main__ - INFO - 
+
+
+2025-11-24 15:39:11,062 - __main__ - INFO -   x_tilde shape: (4321,)
+2025-11-24 15:39:11,062 - __main__ - INFO -   A shape: (4321, 4321)
+2025-11-24 15:39:11,063 - __main__ - INFO -   x_true available: False
+2025-11-24 15:39:11,063 - __main__ - INFO -   Condition number: 1.65e+05
+2025-11-24 15:39:11,063 - __main__ - INFO -   Data range - x_tilde: [0.2590, 1.0000]
+2025-11-24 15:39:11,064 - __main__ - INFO - Data loaded in 9.37 seconds
+2025-11-24 15:39:11,068 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:39:11,068 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:11,069 - __main__ - INFO - File exists: True
+2025-11-24 15:39:11,132 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:30,520 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:39:30,521 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:30,521 - __main__ - INFO - File exists: True
+2025-11-24 15:39:30,524 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:39:30,543 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:39:30,544 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:30,544 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:30,564 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:39:30,565 - __main__ - INFO - 
+
+
+2025-11-24 15:39:30,565 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:39:30,565 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:39:30,566 - __main__ - INFO -   x_true available: True
+2025-11-24 15:39:30,566 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:39:30,566 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:39:30,567 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:39:30,567 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:39:30,567 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:39:30,715 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:39:30,717 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:30,718 - __main__ - INFO - File exists: True
+2025-11-24 15:39:30,721 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:39:30,753 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:39:30,754 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:30,755 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:30,776 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:39:30,776 - __main__ - INFO - 
+
+
+2025-11-24 15:39:30,777 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:39:30,777 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:39:30,777 - __main__ - INFO -   x_true available: True
+2025-11-24 15:39:30,778 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:39:30,778 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:39:30,779 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:39:30,779 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:39:30,779 - __main__ - INFO - Data loaded in 0.07 seconds
+2025-11-24 15:39:30,797 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:39:30,797 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:30,798 - __main__ - INFO - File exists: True
+2025-11-24 15:39:30,800 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:39:30,823 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:39:30,823 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:30,824 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:30,844 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:39:30,845 - __main__ - INFO - 
+
+
+2025-11-24 15:39:30,845 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:39:30,846 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:39:30,846 - __main__ - INFO -   x_true available: True
+2025-11-24 15:39:30,847 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:39:30,847 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:39:30,847 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:39:30,847 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:39:30,848 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:39:30,944 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:39:30,945 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:30,945 - __main__ - INFO - File exists: True
+2025-11-24 15:39:30,947 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:39:30,967 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:39:30,967 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:30,967 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:30,988 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:39:30,988 - __main__ - INFO - 
+
+
+2025-11-24 15:39:30,989 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:39:30,989 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:39:30,989 - __main__ - INFO -   x_true available: True
+2025-11-24 15:39:30,990 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:39:30,990 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:39:30,990 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:39:30,990 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:39:30,990 - __main__ - INFO - Data loaded in 0.05 seconds
+2025-11-24 15:39:31,083 - __main__ - INFO - Loading Example 0 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example0.mat
+2025-11-24 15:39:31,083 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:31,084 - __main__ - INFO - File exists: True
+2025-11-24 15:39:31,086 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtrue', 'xtilde']
+2025-11-24 15:39:31,115 - __main__ - WARNING - High condition number detected: 3.05e+18
+2025-11-24 15:39:31,116 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:31,117 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:31,151 - __main__ - INFO - Improved condition number to: 1.03e+06
+2025-11-24 15:39:31,152 - __main__ - INFO - 
+
+
+2025-11-24 15:39:31,152 - __main__ - INFO -   x_tilde shape: (624,)
+2025-11-24 15:39:31,153 - __main__ - INFO -   A shape: (624, 624)
+2025-11-24 15:39:31,154 - __main__ - INFO -   x_true available: True
+2025-11-24 15:39:31,154 - __main__ - INFO -   x_true shape: (624,)
+2025-11-24 15:39:31,155 - __main__ - INFO -   Condition number: 1.03e+06
+2025-11-24 15:39:31,155 - __main__ - INFO -   Data range - x_tilde: [-0.1796, 0.5857]
+2025-11-24 15:39:31,155 - __main__ - INFO -   Data range - x_true: [0.0000, 1.0000]
+2025-11-24 15:39:31,156 - __main__ - INFO - Data loaded in 0.07 seconds
+2025-11-24 15:39:31,260 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:39:31,260 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:31,260 - __main__ - INFO - File exists: True
+2025-11-24 15:39:31,287 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:32,655 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:39:32,655 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:32,656 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:33,773 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:39:33,774 - __main__ - INFO - 
+
+
+2025-11-24 15:39:33,775 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:39:33,776 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:39:33,776 - __main__ - INFO -   x_true available: False
+2025-11-24 15:39:33,776 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:39:33,777 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:39:33,777 - __main__ - INFO - Data loaded in 2.52 seconds
+2025-11-24 15:39:33,782 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:39:33,783 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:33,783 - __main__ - INFO - File exists: True
+2025-11-24 15:39:33,801 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:34,915 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:39:34,916 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:34,916 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:35,955 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:39:35,955 - __main__ - INFO - 
+
+
+2025-11-24 15:39:35,956 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:39:35,956 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:39:35,956 - __main__ - INFO -   x_true available: False
+2025-11-24 15:39:35,957 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:39:35,957 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:39:35,958 - __main__ - INFO - Data loaded in 2.18 seconds
+2025-11-24 15:39:37,795 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:39:37,795 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:37,796 - __main__ - INFO - File exists: True
+2025-11-24 15:39:37,814 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:38,857 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:39:38,858 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:38,858 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:39,907 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:39:39,907 - __main__ - INFO - 
+
+
+2025-11-24 15:39:39,908 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:39:39,908 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:39:39,908 - __main__ - INFO -   x_true available: False
+2025-11-24 15:39:39,909 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:39:39,909 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:39:39,909 - __main__ - INFO - Data loaded in 2.11 seconds
+2025-11-24 15:39:41,610 - __main__ - INFO - Loading Example 1 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example1.mat
+2025-11-24 15:39:41,610 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:41,611 - __main__ - INFO - File exists: True
+2025-11-24 15:39:41,628 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:42,599 - __main__ - WARNING - High condition number detected: 2.51e+17
+2025-11-24 15:39:42,600 - __main__ - WARNING - This may lead to numerical instability. Consider regularization.
+2025-11-24 15:39:42,600 - __main__ - WARNING - Trying to improve conditioning...
+2025-11-24 15:39:43,588 - __main__ - INFO - Improved condition number to: 1.02e+06
+2025-11-24 15:39:43,589 - __main__ - INFO - 
+
+
+2025-11-24 15:39:43,589 - __main__ - INFO -   x_tilde shape: (2304,)
+2025-11-24 15:39:43,589 - __main__ - INFO -   A shape: (2304, 2304)
+2025-11-24 15:39:43,590 - __main__ - INFO -   x_true available: False
+2025-11-24 15:39:43,590 - __main__ - INFO -   Condition number: 1.02e+06
+2025-11-24 15:39:43,591 - __main__ - INFO -   Data range - x_tilde: [0.0000, 1.0000]
+2025-11-24 15:39:43,591 - __main__ - INFO - Data loaded in 1.98 seconds
+2025-11-24 15:39:45,304 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:39:45,305 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:45,305 - __main__ - INFO - File exists: True
+2025-11-24 15:39:45,367 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
+2025-11-24 15:39:56,041 - __main__ - INFO - 
+
+
+2025-11-24 15:39:56,043 - __main__ - INFO -   x_tilde shape: (4321,)
+2025-11-24 15:39:56,044 - __main__ - INFO -   A shape: (4321, 4321)
+2025-11-24 15:39:56,044 - __main__ - INFO -   x_true available: False
+2025-11-24 15:39:56,044 - __main__ - INFO -   Condition number: 1.65e+05
+2025-11-24 15:39:56,045 - __main__ - INFO -   Data range - x_tilde: [0.2590, 1.0000]
+2025-11-24 15:39:56,045 - __main__ - INFO - Data loaded in 10.74 seconds
+2025-11-24 15:39:56,050 - __main__ - INFO - Loading Example 2 from: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track/Example2.mat
+2025-11-24 15:39:56,051 - __main__ - INFO - Current working directory: /Users/mugabo15/Downloads/Masters/Innopolis/Optimization/Classical Track
+2025-11-24 15:39:56,051 - __main__ - INFO - File exists: True
+2025-11-24 15:39:56,112 - __main__ - INFO - Loaded .mat file with keys: ['__header__', '__version__', '__globals__', 'A', 'l', 'L', 'xtilde']
